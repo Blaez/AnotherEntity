@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# 🪐AnotherEternity🪐
+# 🪐AnotherEntity🪐
 
 </div>
 
