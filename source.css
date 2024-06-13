@@ -27,7 +27,7 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
   --Neon-Rgb2: var(--Neon-Line2); /*red noen node #2*/
   --Cards-Background-Color: rgb(63, 0, 64);/*darker cards color*/
   /*Backgrounds*/
-  --master-background: url('https://image4.uhdpaper.com/wallpaper/ram-rem-re-zero-anime-girl-uhdpaper.com-4K-4.2715.jpg'); /*master background*/
+  --master-background: url('https://media.discordapp.net/attachments/1181079600084815923/1250749028606410803/713297.png?ex=666c124e&is=666ac0ce&hm=224a92a2438ba1fa06819573a4fbe8e88ee01fe5faaa74d2fe499937cd4814d7&=&quality=lossless'); /*master background*/
   --background-floating: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.2)) , var(--master-background)50% 50%/cover !important; /*background used in normal discord's code*/
   /*Gifs for popouts and stuff*/
   --loop-gif: url('https://github.com/xy-nyxy/AnotherEternity/blob/main/background/loop-gif.gif?raw=true'); /*Used in files background*/
